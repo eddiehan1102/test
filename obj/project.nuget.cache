@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n0rPhff55zA=",
+  "success": true,
+  "projectFilePath": "/Users/eddiehan/wwwroot/test/BinanceRealtime.csproj",
+  "expectedPackageFiles": [
+    "/Users/eddiehan/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/eddiehan/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/eddiehan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/eddiehan/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.36/microsoft.netcore.app.host.osx-arm64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
